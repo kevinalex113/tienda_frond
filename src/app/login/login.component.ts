@@ -10,3 +10,7 @@ import { Component } from '@angular/core';
 export class LoginComponent {
 
 }
+
+function login() {
+  throw new Error('Function not implemented.');
+}
